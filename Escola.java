@@ -2,7 +2,7 @@ package entidade;
 
 public class Escola {
 
-    private String nome;
+    private String nome_escola;
     private int id_escola;
     private String Endereco;
 
